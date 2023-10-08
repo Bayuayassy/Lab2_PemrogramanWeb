@@ -166,10 +166,12 @@ background: #E42A42;
 
 ### 6. MeLakukan validasi dokumen css dengan mengakses https://jigsaw.w3.org/css-validator/
 
-!
+![7](https://github.com/Bayuayassy/Lab2_PemrogramanWeb/assets/115678251/e80ac2cc-0767-47e2-905f-078772dfefe3)
 
 
-!
+
+![6](https://github.com/Bayuayassy/Lab2_PemrogramanWeb/assets/115678251/0ddcd400-6b5b-4a2e-9c4f-9aafeb0be19c)
+
 
 ## Pertanyaan dan Tugas 
 
