@@ -197,7 +197,7 @@ background: #E42A42;
 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
 > Jawaban :
 
-- Ketika kita mendeklarasikan secara bersamaan antara **INTERNAL EKSTERNAL** dan **INLINE** yang akan ditampilkan pada Browser adalah **INLINE**, karena **INLINE** memiliki prioritas dibanding **EKSTERNAL** atau pun **INTERNAL** seperti contoh yang saya buat, saya membuat dokumen baru HTML kemudian saya buat Elemen `{h1}`yang kemudian saya akan deklarasikan di CSS **INTERNAL EKSTERNAL** dan juga **INLINE** Dengan property `{color}` dengan warna yang berbeda,jika **INTERNAL** `{color: red}` sementara **EKSTERNAL** `{color:blue;}` dan **INLINE** `{color: green;}` yang terpanggil dibrowser adalah **INLINE** karena memiliki prioritas.
+- Ketika kita mendeklarasikan secara bersamaan antara **INTERNAL EKSTERNAL** dan **INLINE** yang akan ditampilkan pada Browser adalah **INLINE**, karena **INLINE** memiliki prioritas dibanding **EKSTERNAL** atau pun **INTERNAL** seperti contoh yang saya buat, saya membuat dokumen baru HTML kemudian saya buat Elemen `{h1}`yang kemudian saya akan deklarasikan di CSS **INTERNAL EKSTERNAL** dan juga **INLINE** Dengan property `{color}` dengan warna yang berbeda,jika **INTERNAL** `{color: biru}` sementara **EKSTERNAL** `{color:red;}` dan **INLINE** `{color: biru;}` yang terpanggil dibrowser adalah **INLINE** karena memiliki prioritas.
 
 
 ![10](https://github.com/Bayuayassy/Lab2_PemrogramanWeb/assets/115678251/930dbef4-f109-438c-9850-f82d8e9a9177)
@@ -207,7 +207,8 @@ background: #E42A42;
 - Pict di atas adalah deklarasi **INLINE** dan **INTERNAL**, sementara pict di bawah adalah deklarasi **EKSTERNAL**.
 
 
-![11](https://github.com/Bayuayassy/Lab2_PemrogramanWeb/assets/115678251/dd9477b3-63a5-489e-a238-16f48df32d55)
+![11](https://github.com/Bayuayassy/Lab2_PemrogramanWeb/assets/115678251/03110750-f4a7-4457-a1ba-22ab631ddb48)
+
 
 
 
@@ -223,10 +224,7 @@ background: #E42A42;
 - Yang terpanggil di browser adalah **ID** karena **ID** bersifat unik berbeda dengan **Class**. **Class** bisa digunakan banyak sementara **ID** hanya tertentu saja itu kenapa **ID** unik dan yang terpanggil di browser adalah **ID**.
 
 
-!
-
-
-- Di atas saya menambahkan property `{color}` dan `{text-align}` untuk **ID {color: orchid}** dan **{text-align: center}** sementara Class yaitu **{color:palegreen}** dan **{text-align: left}**. Namun yang terpanggil di browser adalah **ID** yang property nya **{color: orchid}** dan juga **{text-align: center}**
+![12](https://github.com/Bayuayassy/Lab2_PemrogramanWeb/assets/115678251/e953450c-b5ee-444e-89a8-4786efd1bcfa)
 
 
 
