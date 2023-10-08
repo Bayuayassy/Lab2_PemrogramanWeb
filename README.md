@@ -92,7 +92,8 @@ color:#6d6a6b;
 ```
 > - Maka hasilnya akan seperti berikut :
 
-!
+![3](https://github.com/Bayuayassy/Lab2_PemrogramanWeb/assets/115678251/82558d13-c5f2-47a5-a84a-b75d6cb90ee6)
+
 
 
 ### 4. Membuat CSS Eksternal
@@ -123,7 +124,8 @@ background: #0B6B3A;
 
 > - Maka hasilnya akan seperti berikut :
 
-!
+![4](https://github.com/Bayuayassy/Lab2_PemrogramanWeb/assets/115678251/4f2472ee-2580-4027-bef2-08467173212d)
+
 
 > - CSS ekternal adalah CSS yang file di tempatkan di luar file HTML dengan menambahkan link dalam HTML agar tertaut dengan file CSS
 
@@ -157,7 +159,8 @@ background: #E42A42;
 ```
 > - Maka hasilnya akan seperti berikut :
 
-!
+![5](https://github.com/Bayuayassy/Lab2_PemrogramanWeb/assets/115678251/ece7bf20-203a-4a1f-9368-f5b048f32823)
+
 
 > - CSS Selector terdiri atas selector ID, Selector Class, Dan Selector elemen Selector ID pendeklarasiannya yaitu dengan (#), Sedangkan Class pendeklarasiannya yaitu dengan (.), Dan Selector elemen pendeklarasiannya dengan elemen HTML sebagai contoh (p) yang akan di beri gaya pada CSS.
 
