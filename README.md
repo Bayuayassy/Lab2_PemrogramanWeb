@@ -178,10 +178,10 @@ background: #E42A42;
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 > Jawaban :
 
-!
+![8](https://github.com/Bayuayassy/Lab2_PemrogramanWeb/assets/115678251/4f60682f-f39b-4cd1-a0ab-ac9b24f32e35)
 
-!
 
+![9](https://github.com/Bayuayassy/Lab2_PemrogramanWeb/assets/115678251/7d7c74cd-8339-4b65-89a9-3f839a4e77b2)
 
 - Pada contoh ini, terdapat elemen `<h1> dengan class "title"` dan `elemen <p> dengan class "text"`. Class tersebut akan digunakan sebagai selector dalam CSS untuk mengubah properti dan nilai. Dalam file CSS (style.css), terdapat aturan CSS yang dideklarasikan untuk `class "title" dan "text"`. Aturan tersebut mengubah properti `"color"` pada elemen dengan class tersebut. Anda dapat mengubah nilai properti `"color"` pada file CSS sesuai keinginan Anda untuk melihat perubahan yang terjadi pada `judul (h1)` dan `paragraf (p)` dalam hal warna teks.
 
@@ -200,13 +200,15 @@ background: #E42A42;
 - Ketika kita mendeklarasikan secara bersamaan antara **INTERNAL EKSTERNAL** dan **INLINE** yang akan ditampilkan pada Browser adalah **INLINE**, karena **INLINE** memiliki prioritas dibanding **EKSTERNAL** atau pun **INTERNAL** seperti contoh yang saya buat, saya membuat dokumen baru HTML kemudian saya buat Elemen `{h1}`yang kemudian saya akan deklarasikan di CSS **INTERNAL EKSTERNAL** dan juga **INLINE** Dengan property `{color}` dengan warna yang berbeda,jika **INTERNAL** `{color: red}` sementara **EKSTERNAL** `{color:blue;}` dan **INLINE** `{color: green;}` yang terpanggil dibrowser adalah **INLINE** karena memiliki prioritas.
 
 
-!
+![10](https://github.com/Bayuayassy/Lab2_PemrogramanWeb/assets/115678251/930dbef4-f109-438c-9850-f82d8e9a9177)
+
 
 
 - Pict di atas adalah deklarasi **INLINE** dan **INTERNAL**, sementara pict di bawah adalah deklarasi **EKSTERNAL**.
 
 
-!
+![11](https://github.com/Bayuayassy/Lab2_PemrogramanWeb/assets/115678251/dd9477b3-63a5-489e-a238-16f48df32d55)
+
 
 
 - Jadi yang terpanggil adalah **CSS INLINE** karena memiliki prioritas tinggi dibanding CSS deklarasi lainnya.
